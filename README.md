@@ -1,4 +1,4 @@
-Simple paint app using Windows Forms (.NET). \
+Simple paint app using Windows Forms (.NET). 
 
 Following modes are available:
 - Set points.
@@ -10,7 +10,7 @@ Following modes are available:
 - Free draw.
 - Clear the canvas.
 
-You can customize colors and width of lines and points as well. \
+You can customize colors and width of lines and points as well. 
 
 Some screens:
 ![Curve line](https://i.imgur.com/bfzoHHJ.jpeg)
